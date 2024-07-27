@@ -16,6 +16,10 @@ This is implementation of Chord. Please check the [paper](http://db.cs.duke.edu/
 <h3>How to compile and run</h3>
 
 <br>
+Firstly you need to make every class file, so in the terminal enter the commmand:
+javac *.java -d ./
+
+<br>
 **Compile**
 
 Open terminal, change directory to **Chord**.
